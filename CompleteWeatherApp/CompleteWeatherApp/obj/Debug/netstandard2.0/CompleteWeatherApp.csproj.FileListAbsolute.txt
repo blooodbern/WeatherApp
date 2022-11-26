@@ -1,0 +1,14 @@
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.deps.json
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.dll
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\ref\CompleteWeatherApp.dll
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\bin\Debug\netstandard2.0\CompleteWeatherApp.pdb
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.AssemblyInfoInputs.cache
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.AssemblyInfo.cs
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.csproj.CoreCompileInputs.cache
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.dll
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\ref\CompleteWeatherApp.dll
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.pdb
+C:\CompleteWeatherApp\CompleteWeatherApp\CompleteWeatherApp\obj\Debug\netstandard2.0\CompleteWeatherApp.csprojAssemblyReference.cache

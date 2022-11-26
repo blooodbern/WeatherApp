@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5osOzOoceNa7nStzTkji1NT1wc9UfxaoTd8J0DHgTPkIdnQQrC8wSK4zTN0svqA5GPE9VEWYdvNbEYfpIeDcA==",
+  "success": true,
+  "projectFilePath": "C:\\CompleteWeatherApp\\CompleteWeatherApp\\CompleteWeatherApp.iOS\\CompleteWeatherApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\xamarin.essentials\\1.2.0\\xamarin.essentials.1.2.0.nupkg.sha512",
+    "C:\\Users\\dimit\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}
